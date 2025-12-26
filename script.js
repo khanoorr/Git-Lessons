@@ -9,3 +9,4 @@ const a = createElement(""h1);
 a.innerHTML = "Hello Sana Suwar";
 
 console.log(kuguaef);
+console.log("This is a test message");
