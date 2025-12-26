@@ -11,3 +11,4 @@ console.log(a);
 
 console.log(kuguaef);
 console.log("This is a test message");
+function githubTest() { "github ka test" };
